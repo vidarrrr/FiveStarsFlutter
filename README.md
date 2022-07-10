@@ -1,5 +1,7 @@
 # Five Stars Widget
 
+You can set star by clicking and get star count with onTap function.
+
 Example code
 ```
           FiveStarsView(
