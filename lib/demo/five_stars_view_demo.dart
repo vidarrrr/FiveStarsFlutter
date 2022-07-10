@@ -1,4 +1,4 @@
-import 'package:custom_library/star/five_star_view.dart';
+import 'package:custom_library/widget/five_stars_view.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
